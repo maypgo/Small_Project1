@@ -1,0 +1,11 @@
+public class VentaMinutos extends Servicio {
+    private int cantidadMinutos;
+    private String operador;
+
+    @Override
+    public double calcularCosto() {
+        // Implementa cálculo de costo basado en operador y cantidad de minutos
+    }
+
+    // Getters y Setters
+}
